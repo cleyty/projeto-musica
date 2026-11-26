@@ -1,0 +1,10 @@
+FONTES UTILIZADAS
+
+Texto:
+https://pt.wikipedia.org/wiki/Intelig%C3%AAncia\_artificial
+
+Imagens:
+https://www.freepik.com
+https://www.magnific.com/br/freepik
+
+Desenvolvido para o Projeto Front-End - 4º Bimestre.

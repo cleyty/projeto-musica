@@ -1,1 +1,1 @@
-# projeto- G8
+# projeto-Tecnologia e Inteligência Artificial
